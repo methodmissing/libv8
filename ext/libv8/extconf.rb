@@ -1,5 +1,6 @@
 require 'mkmf'
 require 'pathname'
+require 'rubygems'
 
 begin
   def crash(str)
